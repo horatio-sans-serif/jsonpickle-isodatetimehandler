@@ -8,7 +8,7 @@ with open('LICENSE') as f:
 
 setup(
   name='iosdatetimehandler',
-  version='0.0.1',
+  version='0.0.2',
   description='An alternate jsonpickle handler for datetime objects.',
   long_description=readme,
   author='Brian Hammond',
