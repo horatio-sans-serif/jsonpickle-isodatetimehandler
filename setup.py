@@ -8,12 +8,12 @@ with open('LICENSE') as f:
 
 setup(
   name='isodatetimehandler',
-  version='1.0.0',
+  version='1.0.1',
   description='An alternate jsonpickle handler for datetime objects.',
   long_description=readme,
   author='Brian Hammond',
   author_email='brian@fictorial.com',
-  url='https://github.com/fictorial/isodatetimehandler',
+  url='https://github.com/fictorial/jsonpickle-isodatetimehandler',
   license=license,
   packages=find_packages(exclude=('tests', 'docs'))
 )
