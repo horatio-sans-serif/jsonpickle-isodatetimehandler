@@ -7,8 +7,8 @@ with open('LICENSE') as f:
   license = f.read()
 
 setup(
-  name='iosdatetimehandler',
-  version='0.0.2',
+  name='isodatetimehandler',
+  version='1.0.0',
   description='An alternate jsonpickle handler for datetime objects.',
   long_description=readme,
   author='Brian Hammond',
