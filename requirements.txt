@@ -1,4 +1,2 @@
 jsonpickle
-pytest
-pytest-cov
-dateutil
+python-dateutil
