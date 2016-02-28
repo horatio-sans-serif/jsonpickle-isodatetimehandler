@@ -1,3 +1,12 @@
+.. image:: https://badge.fury.io/py/isodatetimehandler.svg
+    :target: https://badge.fury.io/py/isodatetimehandler
+
+.. image:: https://pypip.in/download/isodatetimehandler/badge.svg
+    :target: https://badge.fury.io/py/isodatetimehandler
+
+.. image:: https://coveralls.io/repos/github/fictorial/jsonpickle-isodatetimehandler/badge.svg?branch=master
+    :target: https://coveralls.io/github/fictorial/jsonpickle-isodatetimehandler?branch=master
+
 An alternate jsonpickle handler for datetime
 ============================================
 
