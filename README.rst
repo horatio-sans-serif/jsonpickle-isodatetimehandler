@@ -4,6 +4,9 @@
 .. image:: https://pypip.in/download/isodatetimehandler/badge.svg
     :target: https://badge.fury.io/py/isodatetimehandler
 
+.. image:: https://travis-ci.org/fictorial/jsonpickle-isodatetimehandler.svg?branch=master
+    :target: https://travis-ci.org/fictorial/jsonpickle-isodatetimehandler
+
 .. image:: https://coveralls.io/repos/github/fictorial/jsonpickle-isodatetimehandler/badge.svg?branch=master
     :target: https://coveralls.io/github/fictorial/jsonpickle-isodatetimehandler?branch=master
 
